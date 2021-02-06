@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/o3vrw0q9gh6ux3h7?svg=true)](https://ci.appveyor.com/project/vergsparda/ajs-async-await-primises)
+[![Build status](https://ci.appveyor.com/api/projects/status/gk90rjo0m69i96g6?svg=true)](https://ci.appveyor.com/project/vergsparda/ajs-async-await-promises)
 
 ## Promises
 
